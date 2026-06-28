@@ -1,0 +1,1 @@
+Gerador de senhas leve e acessível feito com HTML, CSS e JavaScript puro. Sem frameworks, sem backend, sem coleta de dados. As senhas são criadas localmente usando a Web Crypto API, com indicador de força baseado em entropia e suporte a dark mode automático.
